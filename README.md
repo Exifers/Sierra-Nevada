@@ -6,7 +6,7 @@ You need to run an HTTP Server for it to work.
 If you have python installed you can do the following :
 - open a shell
 - type : 'python -m SimpleHTTPServer'
-- open a browser and type 'localhost:8000'
+- open a browser and type 'localhost:8000' in the address bar
 - go into the project folder
 - open index.html in the browser
 - the canvas should fit your screen, go in full screen mode
