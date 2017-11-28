@@ -20,7 +20,7 @@ This is a work in progress. There's not much now but more may be added.
 
 # Licence
 You're free to copy and share this code the way you want.
-For images and sound files, ask at meric.emmauel@gmail.com for using it.
+For images and sound files, ask at meric.emmauel@gmail.com.
 
 # Author
 Emmanuel aka Exifers
